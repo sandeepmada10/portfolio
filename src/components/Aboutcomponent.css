@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&family=Work+Sans&display=swap');
+
+.about {
+    font-weight: bold;
+    padding: 40px 0px 10px;
+    text-align: left;
+    font-size: 25px;
+
+    margin-left: 20px;
+    ;
+}
+
+.about p {
+
+    font-size: 20px;
+    text-align: justify;
+    text-decoration: none;
+}
+
+.bio {
+    text-align: center;
+    display: flex;
+}
+
+.studies {
+    border: 2px solid black;
+    height: 300px;
+    padding: 10px;
+    margin: 10px 20px 0 20px;
+    width: 350px;
+
+    border-radius: 20px;
+}
+
+.hobbies {
+    border: 2px solid black;
+    height: 300px;
+    padding: 20px 0 0 30px;
+    margin: 10px 200px 0 20px;
+    width: 350px;
+
+    border-radius: 20px;
+}
+
+.studies h2 {
+    color: blue;
+    font-size: 35px;
+    font-family: 'Nunito', sans-serif;
+    text-decoration: none;
+}
+
+.hobbies h2 {
+    color: blue;
+    font-size: 35px;
+    font-family: 'Nunito', sans-serif;
+    text-decoration: none;
+}
+
+.studies h3 {
+    font-size: 20px;
+}
